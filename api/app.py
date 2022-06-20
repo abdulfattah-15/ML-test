@@ -37,16 +37,16 @@ def index():
                                                      'Humidity':Humidity},
                                      result=prediction,
                                      )
-app.run()
-
-
-# In[ ]:
 
 
 
 
 
-# In[ ]:
+
+
+
+
+
 
 
 

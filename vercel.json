@@ -1,5 +1,5 @@
 {
     "rewrites": [
-        { "source": "/(.*)", "destination": "/webapp/app" }
+        { "source": "/(.*)", "destination": "/webapp/app.py" }
     ]
 }
